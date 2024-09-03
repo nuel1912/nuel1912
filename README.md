@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akinbola Emmanuel Oluwanifemi
 =====================================================================================================================================================
 
-Web Developer and Designer
+Frontend Web Developer
 --------------------------
 
 I've been learning to code for some years now, making steady progress. I've really found a passion for developing designing web interfaces. It's been fun actually. I'll keep working to always get better.
